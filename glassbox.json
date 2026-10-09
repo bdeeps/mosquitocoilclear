@@ -1,0 +1,109 @@
+{
+  "slug": "mosquitocoilclear",
+  "box": 164,
+  "date": "2026-10-13",
+  "title": "MosquitoCoilClear",
+  "question": "How does a mosquito coil work?",
+  "hook": "A mosquito coil is a slow fuse wound into a spiral: nearly 70 cm of pressed powder that an ember crosses at 1.4 mm a minute, warming a few milligrams of insecticide into the air just ahead of itself. See why it is a spiral, what the vapour does to a mosquito's nerves, and why opening a window cuts the smoke and the protection by exactly the same share.",
+  "thumbText": "HOW A MOSQUITO COIL WORKS",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "mosquito coil",
+    "pyrethroid",
+    "smouldering",
+    "spiral",
+    "mosquito",
+    "sodium channel",
+    "PM2.5",
+    "indoor air",
+    "malaria",
+    "dengue",
+    "resistance",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two spirals, a stand and an ember",
+      "text": "A coil comes as a flat disc that is really two spirals nested together; you snap them apart and stand one on a metal prong. It is a slow-burning base of sawdust, coconut-shell powder or charcoal powder, a binder, dye and fragrance, and the part that matters: a synthetic pyrethroid insecticide. Indian labels show 0.005% to 0.1% for the common coils, so a 13 gram coil carries only a few milligrams."
+    },
+    {
+      "title": "A night-long fuse in a 12 cm disc",
+      "text": "The length of a spiral is very nearly the area of its ring divided by the spacing of its turns: about 68 cm for a common coil. The ember creeps at about 1.4 mm a minute, so the coil lasts about eight hours. The glow itself would destroy the insecticide, but heat runs a few millimetres ahead of it, and at 150 to 300 °C the active turns to vapour and leaves before the fire arrives."
+    },
+    {
+      "title": "Gates held open",
+      "text": "A mosquito finds you by the carbon dioxide in your breath from 10 to 50 metres, by your shape from 5 to 15 metres and by your warmth in the last metre. Her nerves fire using sodium channels that open for a thousandth of a second. A pyrethroid holds them open, so one touch becomes a burst of signals: at a faint dose she is restless and fails to bite, at a higher dose she is knocked down. Insect channels grip pyrethroids about a thousand times more strongly than mammal ones, and a warm body and a liver do the rest. Cats and fish are sensitive."
+    },
+    {
+      "title": "The window cuts both",
+      "text": "A coil adds two things to a room: the vapour, and smoke. Chamber tests found 63 to 127 mg of fine particles (PM2.5) an hour from ordinary coils, enough to lift a shut 30 m³ bedroom into the thousands of micrograms per cubic metre, against a WHO guideline of 15 for a day's average. One coil gives off as much PM2.5 mass as 75 to 137 cigarettes, which measures the dust released, not what a sleeper breathes. Fresh air removes the same share of smoke and vapour: there is no setting that clears one and keeps the other."
+    },
+    {
+      "title": "The same idea without the ember, and without the chemical",
+      "text": "Liquid vaporisers and mats warm a similar active with a small electric heater, so there is no smoke from burning. Nets, screens, fans and emptying standing water add nothing to the air at all, and a treated bed net is the WHO's main recommendation where malaria spreads. Coils do cut bites, but a Cochrane review found we do not know whether they prevent malaria. Ultrasonic gadgets have failed every fair field test."
+    },
+    {
+      "title": "Rules, care and resistance",
+      "text": "In India a coil is an insecticide product under the Insecticides Act, 1968: it must be registered, and the pack must show the active, its strength and a registration number. Use it on its stand, away from bedding, with some fresh air. Where pyrethroids are used heavily, mosquitoes carrying a slightly different sodium channel survive and multiply; this knock-down resistance has been found in India's malaria and dengue mosquitoes. India reported about 2.6 lakh malaria cases and 2.3 lakh dengue cases in 2024."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Mosquito coil",
+      "def": "A spiral of pressed, slow-burning powder that carries a little insecticide and smoulders for hours."
+    },
+    {
+      "term": "Pyrethroid",
+      "def": "A synthetic insecticide modelled on pyrethrins, the natural insect-killers of pyrethrum daisies."
+    },
+    {
+      "term": "Archimedean spiral",
+      "def": "A spiral with evenly spaced turns; its length is about the area of its ring divided by the spacing."
+    },
+    {
+      "term": "Smoulder",
+      "def": "Burning without a flame: a glowing ember creeping through a solid."
+    },
+    {
+      "term": "Sodium channel",
+      "def": "A protein gate in a nerve's membrane that opens briefly to make a voltage spike. Pyrethroids hold it open."
+    },
+    {
+      "term": "Spatial repellency",
+      "def": "Mosquitoes avoiding or leaving a space because of a chemical in its air."
+    },
+    {
+      "term": "PM2.5",
+      "def": "The mass of particles finer than 2.5 micrometres in a cubic metre of air."
+    },
+    {
+      "term": "Air changes per hour",
+      "def": "How many room-fulls of fresh air replace the old air each hour."
+    },
+    {
+      "term": "Knock-down resistance (kdr)",
+      "def": "A small change in an insect's sodium channel that makes pyrethroids bind less well, spread by selection."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "mosquitocoilclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

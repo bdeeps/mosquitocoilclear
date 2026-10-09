@@ -1,0 +1,974 @@
+{
+  "title": "The history of the mosquito coil",
+  "tagline": "Two hundred years from a daisy ground into powder to a spiral that billions light at dusk, and the science still catching up with it.",
+  "intro": "People in the Caucasus and Persia knew that a certain daisy, dried and powdered, killed lice and fleas. In the 1880s a Japanese farmer mixed the powder into incense so its smoke would reach mosquitoes, and his wife's idea of winding the stick into a spiral made it last the night. Chemists then learned to build the daisy's molecules, nerve scientists worked out how they act, and doctors started asking two harder questions: what does the smoke do to people, and does keeping mosquitoes off really prevent disease?",
+  "eras": [
+    {
+      "id": "daisy",
+      "name": "Daisy powder",
+      "from": 1820,
+      "to": 1885,
+      "color": "#8fbf7a",
+      "summary": "Pyrethrum daisies are grown, dried and ground into insect powder, first in the Caucasus and Dalmatia, then sold across Europe. Someone tries burning it."
+    },
+    {
+      "id": "spiral",
+      "name": "From stick to spiral",
+      "from": 1885,
+      "to": 1920,
+      "color": "#f2c14e",
+      "summary": "Pyrethrum reaches Japan. An incense stick that kills mosquitoes becomes a spiral that burns all night, in the same years that the mosquito is proved to carry malaria."
+    },
+    {
+      "id": "chem",
+      "name": "Chemistry and nerves",
+      "from": 1920,
+      "to": 1980,
+      "color": "#c49bff",
+      "summary": "The daisy's molecules are drawn, copied and improved. Machines stamp out coils, electric mats do without the ember, and scientists find the nerve gate that pyrethroids jam."
+    },
+    {
+      "id": "proof",
+      "name": "Evidence and resistance",
+      "from": 1980,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Treated bed nets transform malaria control. The smoke from coils is measured, mosquitoes evolve resistance, and reviewers ask what coils have actually been proved to do."
+    }
+  ],
+  "events": [
+    {
+      "year": 1828,
+      "date": "c. 1828",
+      "era": "daisy",
+      "art": "leaf",
+      "title": "Insect powder becomes a trade",
+      "who": "Growers and merchants of the Caucasus",
+      "where": "Armenia",
+      "country": "Armenia",
+      "text": "Dried, ground flower heads of the red Persian pyrethrum daisy had long been used against lice and fleas in the Caucasus and Persia. Commercial growing is recorded in Armenia from about 1828, and the product reached Europe as \"Persian powder\".",
+      "why": "A flower turned out to hold one of the safest insect-killers ever found.",
+      "box": "",
+      "sources": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1840,
+      "date": "c. 1840",
+      "era": "daisy",
+      "art": "leaf",
+      "title": "The Dalmatian daisy takes over",
+      "who": "Farmers of Dalmatia",
+      "where": "Dalmatia (today Croatia)",
+      "country": "Croatia",
+      "text": "Around 1840 a white daisy from the Adriatic coast, Tanacetum cinerariifolium, was brought into cultivation. Its flowers hold more of the active pyrethrins than the Persian kind, and it became the world's pyrethrum plant.",
+      "why": "Every pyrethrum crop since, from Japan to Kenya, has been this species.",
+      "box": "",
+      "sources": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1854,
+      "date": "1854",
+      "era": "daisy",
+      "art": "building",
+      "title": "Zacherlin: powder from a factory",
+      "who": "Johann Zacherl",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "Johann Zacherl, who had traded pyrethrum powder from Tiflis since 1842, opened a factory in Vienna to make an insect powder he called Zacherlin. It sold across Europe.",
+      "why": "Insect powder became a branded household product.",
+      "box": "",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1862,
+      "date": "1862",
+      "era": "daisy",
+      "art": "flame",
+      "title": "Burn it instead: the first fumigating cones",
+      "who": "Giovanni Battista Zampironi",
+      "where": "Mestre, Italy",
+      "country": "Italy",
+      "text": "An Italian pharmacist pressed pyrethrum powder into small cones to be burnt in a room. The smoke carried the insecticide to flying mosquitoes that powder on a shelf could never reach.",
+      "why": "The idea of delivering pyrethrum by smouldering it was born.",
+      "box": "anatomy",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1886,
+      "date": "1886",
+      "era": "spiral",
+      "art": "leaf",
+      "key": true,
+      "title": "Seeds cross the Pacific",
+      "who": "Eiichiro Ueyama and H. E. Amoore",
+      "where": "Wakayama, Japan",
+      "country": "Japan",
+      "text": "Eiichiro Ueyama, a mandarin-orange grower, met the American seed trader H. E. Amoore in 1885 and agreed to swap seeds. In 1886 a packet arrived that included pyrethrum, and Ueyama harvested his first flowers the next year.",
+      "why": "Japan would become the world's biggest pyrethrum grower within thirty years.",
+      "box": "",
+      "sources": [
+        5,
+        7
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "1890",
+      "era": "spiral",
+      "art": "flame",
+      "key": true,
+      "title": "The first mosquito incense stick",
+      "who": "Eiichiro Ueyama",
+      "where": "Wakayama, Japan",
+      "country": "Japan",
+      "text": "Ueyama mixed pyrethrum powder into incense-stick paste and sold the result as a mosquito stick, which his company calls the world's first. It worked, but a thin stick burned out in well under an hour.",
+      "why": "It joined two old crafts, incense and insect powder, into one product.",
+      "box": "anatomy",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1895",
+      "era": "spiral",
+      "art": "coil",
+      "key": true,
+      "title": "Yuki Ueyama suggests a spiral",
+      "who": "Yuki Ueyama",
+      "where": "Wakayama, Japan",
+      "country": "Japan",
+      "text": "A longer, thicker stick would last the night but would be fragile and awkward. Ueyama's wife, Yuki, proposed winding it into a spiral, and trials began. The company applied for a patent in 1900.",
+      "why": "A spiral packs a night-long strip into the space of a saucer.",
+      "box": "spiral",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "20 August 1897",
+      "era": "spiral",
+      "art": "cell",
+      "key": true,
+      "title": "The mosquito is caught carrying malaria",
+      "who": "Ronald Ross",
+      "where": "Secunderabad, India",
+      "country": "India",
+      "text": "Working in an army hospital in Secunderabad, Ronald Ross dissected a dappled-winged mosquito that had fed on a malaria patient and found the parasite in its stomach wall. The next year, in Calcutta, he showed mosquitoes passing malaria between birds. He won the Nobel Prize in 1902.",
+      "why": "Once the mosquito was known to be the carrier, keeping it off people became a public health goal.",
+      "box": "",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "spiral",
+      "art": "coil",
+      "key": true,
+      "title": "The spiral coil goes on sale",
+      "who": "Eiichiro and Yuki Ueyama",
+      "where": "Osaka, Japan",
+      "country": "Japan",
+      "text": "After years of trials the hand-wound spiral coil reached shops. Workers rolled the paste into long ropes and coiled two at a time, a method that lasted more than fifty years.",
+      "why": "It is the same product, in the same shape, that billions of people still light.",
+      "box": "spiral",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924",
+      "era": "chem",
+      "art": "molecule",
+      "title": "The daisy's molecules are drawn",
+      "who": "Hermann Staudinger and Lavoslav Ružička",
+      "where": "Zurich, Switzerland",
+      "country": "Switzerland",
+      "text": "Two chemists, both later Nobel laureates, published the structures of pyrethrin I and II, the main insect-killing molecules of pyrethrum. Details were corrected by Frederick LaForge and W. F. Barthel in the United States in 1944.",
+      "why": "Knowing the structure made it possible to try building copies.",
+      "box": "",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "1933",
+      "era": "chem",
+      "art": "earth",
+      "title": "Kenya starts exporting pyrethrum",
+      "who": "Kenyan highland growers",
+      "where": "Kenya",
+      "country": "Kenya",
+      "text": "Pyrethrum was planted in Kenya's cool highlands in the late 1920s and exports began in 1933. When war cut off Japanese supplies, Kenya became the world's main source; its harvest peaked at 15,300 tons in 1975.",
+      "why": "The natural insecticide became an African cash crop.",
+      "box": "",
+      "sources": [
+        7,
+        2
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938",
+      "era": "chem",
+      "art": "leaf",
+      "title": "Japan's record pyrethrum harvest",
+      "who": "Japanese growers",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Japan had been the largest producer since about 1914. In 1938 it gathered a record 13,200 tons of dried flowers, and more than half went to the United States.",
+      "why": "Natural supply was at its limit just as war was about to cut it off.",
+      "box": "",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "September 1939",
+      "era": "chem",
+      "art": "flask",
+      "title": "DDT's power is discovered",
+      "who": "Paul Hermann Müller",
+      "where": "Basel, Switzerland",
+      "country": "Switzerland",
+      "text": "At the Geigy company, Paul Müller found that DDT, a compound first made in 1874, killed insects on contact and went on working for months. It won him the 1948 Nobel Prize and reshaped malaria control. It also acts on the sodium channels of insect nerves.",
+      "why": "A cheap, lasting insecticide made spraying houses the main weapon against malaria.",
+      "box": "",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1949",
+      "era": "chem",
+      "art": "molecule",
+      "key": true,
+      "title": "Allethrin: the first man-made pyrethroid",
+      "who": "Milton S. Schechter and colleagues",
+      "where": "United States",
+      "country": "USA",
+      "text": "Milton Schechter's group synthesised allethrin, a simplified copy of pyrethrin I. It was the first pyrethroid. Sumitomo Chemical began making it in Japan in 1953, and from about 1955 it started to replace daisy powder in coils.",
+      "why": "Coils no longer depended on a harvest of flowers.",
+      "box": "anatomy",
+      "sources": [
+        10,
+        7
+      ]
+    },
+    {
+      "year": 1951,
+      "date": "1951",
+      "era": "chem",
+      "art": "cell",
+      "title": "Flies that will not fall",
+      "who": "James Busvine",
+      "where": "London, United Kingdom",
+      "country": "UK",
+      "text": "James Busvine reported house flies that DDT and pyrethrins could no longer knock down. The trait, later named knock-down resistance or kdr, was traced by the 1950s to a single gene, and much later to the sodium channel itself.",
+      "why": "It was the first warning that insects evolve their way out of nerve poisons.",
+      "box": "health",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "April 1953",
+      "era": "chem",
+      "art": "building",
+      "title": "India launches a national malaria programme",
+      "who": "Government of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "With an estimated 75 million cases a year at independence, India began a National Malaria Control Programme in 1953 and raised it to an eradication programme in 1958, built on spraying houses with DDT. Reported cases fell to under 50,000 in 1961, then surged back to about 6.5 million in 1976.",
+      "why": "It showed both how much insecticides could do and how quickly gains could be lost.",
+      "box": "",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "1957",
+      "era": "chem",
+      "art": "gear",
+      "title": "Machines take over from hand-winding",
+      "who": "Dainihon Jochugiku (Kincho)",
+      "where": "Osaka, Japan",
+      "country": "Japan",
+      "text": "Until the 1950s every coil was rolled and wound by hand. In 1957 Kincho completed an automatic machine that punched the interlocked double spiral out of a flat sheet.",
+      "why": "The nested pair you snap apart today is the shape that punching made natural.",
+      "box": "anatomy",
+      "sources": [
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "chem",
+      "art": "plug",
+      "key": true,
+      "title": "The electric mat: vapour without an ember",
+      "who": "Fumakilla",
+      "where": "Hiroshima, Japan",
+      "country": "Japan",
+      "text": "Fumakilla launched Vape, described as the world's first electric mosquito killer: a small pad soaked in pyrethroid, warmed on a hot plate. A first-generation Vape is kept in the Edo-Tokyo Museum.",
+      "why": "The active could now be warmed into the air with no smoke from burning.",
+      "box": "choices",
+      "sources": [
+        12,
+        13,
+        7
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "1967",
+      "era": "chem",
+      "art": "neuron",
+      "key": true,
+      "title": "How it jams a nerve",
+      "who": "Toshio Narahashi",
+      "where": "Duke University, United States",
+      "country": "USA",
+      "text": "Using the giant nerve fibres of squid and lobster, Toshio Narahashi and colleagues showed that allethrin and DDT keep a nerve's sodium current flowing after it should have stopped, so the nerve fires again and again.",
+      "why": "It explained knock-down, and later why insects are about a thousand times more sensitive than mammals.",
+      "box": "nerve",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "chem",
+      "art": "scroll",
+      "title": "India's Insecticides Act",
+      "who": "Parliament of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The Insecticides Act, passed in 1968 and brought into force in 1971, set up a Central Insecticides Board and a Registration Committee. Every insecticide product, household coils included, must be registered before it is made or sold.",
+      "why": "It is why a legal coil carries an active ingredient, a strength and a registration number.",
+      "box": "health",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "chem",
+      "art": "flask",
+      "title": "Pyrethroids that survive sunlight",
+      "who": "Michael Elliott and team",
+      "where": "Rothamsted, United Kingdom",
+      "country": "UK",
+      "text": "Michael Elliott's group at Rothamsted Experimental Station published permethrin, \"a photostable pyrethroid\", in 1973, followed within a year by deltamethrin. Earlier pyrethroids broke down in hours outdoors; these lasted weeks.",
+      "why": "They made pyrethroids the insecticides of farms, house walls and, later, bed nets.",
+      "box": "",
+      "sources": [
+        18,
+        19,
+        3
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "proof",
+      "art": "night",
+      "key": true,
+      "title": "A bed net dipped in insecticide",
+      "who": "Frédéric Darriet and colleagues",
+      "where": "Burkina Faso",
+      "country": "Burkina Faso",
+      "text": "Researchers of the French institute ORSTOM working in Burkina Faso published the first village test of bed nets soaked in permethrin. Treated nets killed or drove off mosquitoes that plain nets only blocked.",
+      "why": "It began the insecticide-treated net, now the main malaria tool worldwide.",
+      "box": "choices",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "era": "proof",
+      "art": "scales",
+      "title": "An Indian Standard for coils",
+      "who": "Bureau of Indian Standards",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The Bureau of Indian Standards published IS 13438, a specification for allethrin mosquito coils, alongside one for mats. By then coils and electric mats were everyday goods in Indian cities; in 1994 Godrej bought Transelektra, the maker of a leading mat.",
+      "why": "Coils became a standardised, regulated product in their biggest market.",
+      "box": "",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "proof",
+      "art": "night",
+      "title": "Nets that stay treated for years",
+      "who": "Sumitomo Chemical and the WHO",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "A WHO expert group reviewed the Olyset net, which has permethrin built into its fibres so that it survives years of washing. In 2007 the WHO advised that nets should be long-lasting, free or cheap, and used by everyone in a community.",
+      "why": "It turned treated nets from a project into a mass programme.",
+      "box": "",
+      "sources": [
+        23,
+        24,
+        40
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "December 2003",
+      "era": "proof",
+      "art": "lungs",
+      "key": true,
+      "title": "The smoke is measured",
+      "who": "Weili Liu, Junfeng Zhang and colleagues",
+      "where": "New Jersey, United States, and Malaysia",
+      "country": "USA",
+      "text": "A chamber study of six coil brands from China and Malaysia found that one coil gives off as much PM2.5 mass as 75 to 137 cigarettes, and as much formaldehyde as up to 51. A companion paper warned of coils abroad containing a synergist, S-2, that can form a potent lung carcinogen when it smoulders.",
+      "why": "It put numbers on a trade-off users had only smelt.",
+      "box": "room",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "proof",
+      "art": "cell",
+      "title": "Resistance gene found in India's malaria mosquito",
+      "who": "Om P. Singh and colleagues, National Institute of Malaria Research",
+      "where": "Surat, Gujarat, India",
+      "country": "India",
+      "text": "Researchers found the first direct evidence of a kdr mutation in Indian Anopheles culicifacies, the main rural malaria mosquito, in a population resistant to DDT and deltamethrin. In 2015 the same group reported kdr mutations in Delhi's dengue mosquito, Aedes aegypti.",
+      "why": "Pyrethroids, in coils, sprays and nets alike, were losing some of their grip.",
+      "box": "health",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "proof",
+      "art": "heatwaves",
+      "title": "A coil that smokes far less",
+      "who": "Lin Zhang, Junfeng Zhang and colleagues",
+      "where": "China and the United States",
+      "country": "China",
+      "text": "Tests showed that a coil with a charcoal-powder base gave off 12.6 mg of fine particles an hour, against 63 to 127 mg for ordinary sawdust-base coils. The paper also passed on an industry estimate: 45 to 50 billion coils used each year by about 2 billion people.",
+      "why": "The smoke is not fixed: it depends on what the base is made of.",
+      "box": "room",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "September 2015",
+      "era": "proof",
+      "art": "trophy",
+      "key": true,
+      "title": "663 million cases averted",
+      "who": "Samir Bhatt and colleagues, Malaria Atlas Project",
+      "where": "Oxford, United Kingdom",
+      "country": "UK",
+      "text": "A study in Nature estimated that malaria control prevented 663 million cases in sub-Saharan Africa between 2000 and 2015. Insecticide-treated nets accounted for 68% of them.",
+      "why": "It is the strongest evidence that keeping mosquitoes off sleepers saves lives at scale.",
+      "box": "choices",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "11 February 2016",
+      "era": "proof",
+      "art": "earth",
+      "title": "India sets a date to end malaria",
+      "who": "Ministry of Health and Family Welfare",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India launched its National Framework for Malaria Elimination 2016-2030. Reported cases, 11.7 lakh in 2015, fell below 2 lakh by 2020, then rose again to about 2.6 lakh in 2024.",
+      "why": "The goal moved from control to elimination.",
+      "box": "",
+      "sources": [
+        31,
+        36
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "6 February 2018",
+      "era": "proof",
+      "art": "scales",
+      "key": true,
+      "title": "\"We do not know\"",
+      "who": "Marta Maia and colleagues, Cochrane Infectious Diseases Group",
+      "where": "Liverpool, United Kingdom",
+      "country": "UK",
+      "text": "A Cochrane review found only two trials of coils against malaria, in China and Indonesia, with results too uncertain to trust. It concluded: we do not know if coils protect against malaria. An earlier review had found consistent evidence that coils do reduce biting.",
+      "why": "It drew the honest line between stopping bites and proving that disease is prevented.",
+      "box": "choices",
+      "sources": [
+        32,
+        33,
+        38
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "13 August 2025",
+      "era": "proof",
+      "art": "share",
+      "key": true,
+      "title": "WHO backs spatial emanators",
+      "who": "World Health Organization",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "After a trial in western Kenya in which a passive transfluthrin emanator cut new malaria infections in children by about a third, the WHO gave a conditional recommendation for spatial emanators used indoors together with nets, and approved the first two products.",
+      "why": "The coil's principle, a faint repellent vapour in a room, got its first formal backing, in a smokeless form.",
+      "box": "choices",
+      "sources": [
+        34,
+        35
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Commercial pyrethrum growing",
+      "value": "c. 1828",
+      "who": "Armenia"
+    },
+    {
+      "label": "Pyrethrum burnt as fumigating cones",
+      "value": "1862",
+      "who": "Giovanni Battista Zampironi, Italy"
+    },
+    {
+      "label": "Mosquito incense stick",
+      "value": "1890",
+      "who": "Eiichiro Ueyama, Japan (company claim)"
+    },
+    {
+      "label": "Spiral mosquito coil on sale",
+      "value": "1902",
+      "who": "Eiichiro and Yuki Ueyama, Japan"
+    },
+    {
+      "label": "Synthetic pyrethroid (allethrin)",
+      "value": "1949",
+      "who": "Milton S. Schechter and colleagues, USA"
+    },
+    {
+      "label": "Electric mosquito mat",
+      "value": "1963",
+      "who": "Fumakilla, Japan (company claim)"
+    },
+    {
+      "label": "Village test of an insecticide-treated bed net",
+      "value": "1984",
+      "who": "Darriet and colleagues, Burkina Faso"
+    },
+    {
+      "label": "WHO recommendation for a spatial repellent",
+      "value": "2025",
+      "who": "Spatial emanators, used with nets"
+    }
+  ],
+  "people": [
+    {
+      "name": "Eiichiro Ueyama",
+      "life": "1862 – 1943",
+      "role": "Farmer and founder of Kincho",
+      "from": "Japan",
+      "note": "Grew Japan's first pyrethrum from seeds sent by an American trader and put it into incense."
+    },
+    {
+      "name": "Yuki Ueyama",
+      "life": "dates not found",
+      "role": "Inventor of the spiral form",
+      "from": "Japan",
+      "note": "Suggested in 1895 that a long mosquito stick be wound into a coil."
+    },
+    {
+      "name": "Ronald Ross",
+      "life": "1857 – 1932",
+      "role": "Army doctor",
+      "from": "India and UK",
+      "note": "Born in Almora; found the malaria parasite in a mosquito at Secunderabad in 1897."
+    },
+    {
+      "name": "Hermann Staudinger",
+      "life": "1881 – 1965",
+      "role": "Chemist",
+      "from": "Germany",
+      "note": "With Lavoslav Ružička, worked out the structures of the pyrethrins, published in 1924."
+    },
+    {
+      "name": "Milton S. Schechter",
+      "life": "dates not found",
+      "role": "Chemist",
+      "from": "USA",
+      "note": "Led the synthesis of allethrin, the first pyrethroid, in 1949."
+    },
+    {
+      "name": "Michael Elliott",
+      "life": "1924 – 2007",
+      "role": "Chemist at Rothamsted",
+      "from": "UK",
+      "note": "Led the team that invented permethrin, cypermethrin and deltamethrin."
+    },
+    {
+      "name": "Toshio Narahashi",
+      "life": "1927 – 2013",
+      "role": "Nerve scientist",
+      "from": "Japan and USA",
+      "note": "Showed that pyrethroids and DDT hold nerve sodium channels open."
+    },
+    {
+      "name": "Paul Hermann Müller",
+      "life": "1899 – 1965",
+      "role": "Chemist at Geigy",
+      "from": "Switzerland",
+      "note": "Discovered the insect-killing power of DDT in 1939."
+    },
+    {
+      "name": "Om P. Singh",
+      "life": "living",
+      "role": "Entomologist, National Institute of Malaria Research",
+      "from": "India",
+      "note": "Led the first reports of kdr resistance genes in Indian malaria and dengue mosquitoes."
+    }
+  ],
+  "series": [
+    {
+      "id": "malaria",
+      "title": "Malaria cases reported in India",
+      "unit": "million cases",
+      "log": false,
+      "after": "proof",
+      "caption": "Cases reported to the national programme each year. They fell by more than nine-tenths between 1995 and 2021, then edged up. The true number of infections is higher than the number reported.",
+      "points": [
+        {
+          "year": 1995,
+          "value": 2.93,
+          "label": "1995: 2,926,197 cases"
+        },
+        {
+          "year": 2000,
+          "value": 2.03,
+          "label": "2000: 2,031,790 cases"
+        },
+        {
+          "year": 2005,
+          "value": 1.82,
+          "label": "2005: 1,816,569 cases"
+        },
+        {
+          "year": 2010,
+          "value": 1.6,
+          "label": "2010: 1,599,986 cases"
+        },
+        {
+          "year": 2015,
+          "value": 1.17,
+          "label": "2015: 1,169,261 cases"
+        },
+        {
+          "year": 2018,
+          "value": 0.43,
+          "label": "2018: 429,928 cases"
+        },
+        {
+          "year": 2020,
+          "value": 0.19,
+          "label": "2020: 186,532 cases"
+        },
+        {
+          "year": 2021,
+          "value": 0.16,
+          "label": "2021: 161,753 cases"
+        },
+        {
+          "year": 2022,
+          "value": 0.18,
+          "label": "2022: 176,522 cases"
+        },
+        {
+          "year": 2023,
+          "value": 0.23,
+          "label": "2023: 227,564 cases"
+        },
+        {
+          "year": 2024,
+          "value": 0.26,
+          "label": "2024: 255,500 cases"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The spiral was not the inventor's idea. Eiichiro Ueyama made mosquito sticks; his wife Yuki suggested coiling them.",
+    "A coil's glowing tip would destroy its insecticide. The active escapes as vapour from the warm strip a few millimetres ahead of the ember.",
+    "For more than fifty years every mosquito coil was rolled and wound by hand. Machines took over only in 1957.",
+    "Pyrethroids are copies of molecules made by a daisy to defend itself against insects.",
+    "By one industry estimate, people light 45 to 50 billion coils a year."
+  ],
+  "sources": [
+    {
+      "title": "Mosquito coil",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mosquito_coil"
+    },
+    {
+      "title": "Pyrethrum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pyrethrum"
+    },
+    {
+      "title": "Pyrethrin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pyrethrin"
+    },
+    {
+      "title": "Pyrethroid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pyrethroid"
+    },
+    {
+      "title": "Pyrethrum: a review of its history, cultivation and pyrethrins",
+      "publisher": "Ornamental Plant Research (Maximum Academic Press)",
+      "url": "https://www.maxapress.com/article/doi/10.48130/opr-0024-0013"
+    },
+    {
+      "title": "Kincho company history: the Meiji era (in Japanese)",
+      "publisher": "Dainihon Jochugiku (KINCHO)",
+      "url": "https://www.kincho.co.jp/kaisha/ayumi/index.html"
+    },
+    {
+      "title": "Kincho company history: after the war (in Japanese)",
+      "publisher": "Dainihon Jochugiku (KINCHO)",
+      "url": "https://www.kincho.co.jp/kaisha/ayumi/ayumi04.html"
+    },
+    {
+      "title": "Speech on pyrethrum and pyrethroids by K. Nakayama, Sumitomo Chemical America, 11 May 1981",
+      "publisher": "Sumitomo Chemical history archive",
+      "url": "https://knak.jp/sumika-history/scai/csma%20speech.htm"
+    },
+    {
+      "title": "Ronald Ross",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Ross"
+    },
+    {
+      "title": "Paul Hermann Müller",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paul_Hermann_M%C3%BCller"
+    },
+    {
+      "title": "Allethrins",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Allethrins"
+    },
+    {
+      "title": "Malaria in India",
+      "publisher": "Malaria Site",
+      "url": "https://www.malariasite.com/malaria-india/"
+    },
+    {
+      "title": "Fumakilla: company profile",
+      "publisher": "Hiroshima Prefecture company database",
+      "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00742.html"
+    },
+    {
+      "title": "First-generation Vape electric mosquito mat, 1963",
+      "publisher": "Edo-Tokyo Museum digital archives",
+      "url": "https://www.edohakuarchives.jp/detail-76475.html"
+    },
+    {
+      "title": "Elucidation of pyrethroid and DDT receptor sites in the voltage-gated sodium channel (Zhorov and Dong, 2017)",
+      "publisher": "Neurotoxicology, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5730328/"
+    },
+    {
+      "title": "Differential actions of insecticides on target sites: basis for selective toxicity (Narahashi et al., 2010)",
+      "publisher": "Pesticide Biochemistry and Physiology, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2885805"
+    },
+    {
+      "title": "The Insecticides Act, 1968",
+      "publisher": "Casemine bare acts",
+      "url": "https://www.casemine.com/act/in/5f5f130e9fca195c05cd02ba"
+    },
+    {
+      "title": "Pesticide formulations registered for use in the country under the Insecticides Act, 1968 (as on 01.06.2023)",
+      "publisher": "Central Insecticides Board and Registration Committee list, hosted by the Government of Himachal Pradesh",
+      "url": "https://eudyan.hp.gov.in/cms/media/cizlscjc/pesticides-formulations.pdf"
+    },
+    {
+      "title": "Michael Elliott (chemist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_Elliott_(chemist)"
+    },
+    {
+      "title": "Michael Elliott CBE, 30 September 1924 – 17 October 2007",
+      "publisher": "Rothamsted Research repository",
+      "url": "https://repository.rothamsted.ac.uk/item/8w10w/michael-elliott-cbe-30-september-1924-17-october-2007"
+    },
+    {
+      "title": "Evaluation of the efficacy of permethrin-impregnated bed nets (Darriet et al., 1984)",
+      "publisher": "IRD documentation",
+      "url": "https://www.documentation.ird.fr/hor/fdi:24447"
+    },
+    {
+      "title": "IS 13438 : 1992, Allethrin - Mosquito coils - Specification",
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails_mnd/5078"
+    },
+    {
+      "title": "The Godrej guardian",
+      "publisher": "Outlook Business",
+      "url": "https://www.outlookbusiness.com/specials/super-seven/the-godrej-guardian-1107"
+    },
+    {
+      "title": "Olyset Net",
+      "publisher": "Sumitomo Group",
+      "url": "https://www.sumitomo.gr.jp/english/act/sustainability/theme4/"
+    },
+    {
+      "title": "Report of the fifth WHOPES working group meeting, 30-31 October 2001",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/publications/i/item/who-cds-whopes-2001.4"
+    },
+    {
+      "title": "Mosquito coil emissions and health implications (Liu et al., 2003)",
+      "publisher": "Environmental Health Perspectives, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1241646/"
+    },
+    {
+      "title": "Octachlorodipropyl ether (S-2) mosquito coils are inadequately studied for residential use in Asia and illegal in the United States (Krieger, Dinoff and Zhang, 2003)",
+      "publisher": "Environmental Health Perspectives, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1241643/"
+    },
+    {
+      "title": "Using charcoal as base material reduces mosquito coil emissions of toxins (Zhang et al., 2010)",
+      "publisher": "Indoor Air, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2859469"
+    },
+    {
+      "title": "Presence of two alternative kdr-like mutations in Anopheles culicifacies from India: first direct evidence (Singh et al., 2009)",
+      "publisher": "Malaria Journal, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2717976/"
+    },
+    {
+      "title": "Pyrethroid resistance and presence of two knockdown resistance (kdr) mutations in Indian Aedes aegypti (Kushwah et al., 2015)",
+      "publisher": "PLoS Neglected Tropical Diseases, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4287524/"
+    },
+    {
+      "title": "The effect of malaria control on Plasmodium falciparum in Africa between 2000 and 2015 (Bhatt et al., 2015)",
+      "publisher": "Nature, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4820050/"
+    },
+    {
+      "title": "National Framework for Malaria Elimination in India 2016-2030",
+      "publisher": "World Health Organization, India",
+      "url": "https://www.who.int/india/publications/m/item/national-framework-for-malaria-elimination-in-india-2016-2030"
+    },
+    {
+      "title": "Mosquito repellents for malaria prevention (Maia et al., 2018)",
+      "publisher": "Cochrane Database of Systematic Reviews",
+      "url": "https://www.cochrane.org/evidence/CD011595_mosquito-repellents-malaria-prevention"
+    },
+    {
+      "title": "Do mosquito coils prevent malaria? A systematic review of trials (Lawrance and Croft, 2004)",
+      "publisher": "Journal of Travel Medicine",
+      "url": "https://academic.oup.com/jtm/article/11/2/92/1802689"
+    },
+    {
+      "title": "WHO recommends spatial emanators for malaria vector control and prequalifies first two products",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/13-08-2025-who-recommends-spatial-emanators-for-malaria-vector-control-and-prequalifies-first-two-products"
+    },
+    {
+      "title": "Effect of a spatial repellent on malaria incidence in an area of western Kenya (Ochomo et al., Lancet 2025)",
+      "publisher": "Johns Hopkins University research portal",
+      "url": "https://pure.johnshopkins.edu/en/publications/effect-of-a-spatial-repellent-on-malaria-incidence-in-an-area-of-/"
+    },
+    {
+      "title": "Malaria situation in India",
+      "publisher": "National Center for Vector Borne Diseases Control, Ministry of Health and Family Welfare",
+      "url": "https://ncvbdc.mohfw.gov.in/index4.php?lang=1&level=0&linkid=420&lid=3699"
+    },
+    {
+      "title": "Dengue situation in India",
+      "publisher": "National Center for Vector Borne Diseases Control, Ministry of Health and Family Welfare",
+      "url": "https://ncvbdc.mohfw.gov.in/index4.php?lang=1&level=0&linkid=431&lid=3715"
+    },
+    {
+      "title": "A systematic review of mosquito coils and passive emanators (Ogoma, Moore and Maia, 2012)",
+      "publisher": "Parasites & Vectors, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3549831/"
+    },
+    {
+      "title": "Prallethrin",
+      "publisher": "University of Hertfordshire Pesticide Properties Database",
+      "url": "https://sitem.herts.ac.uk/aeru/ppdb/en/Reports/1474.htm"
+    },
+    {
+      "title": "WHO releases new guidance on insecticide-treated mosquito nets",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/15-08-2007-who-releases-new-guidance-on-insecticide-treated-mosquito-nets"
+    },
+    {
+      "title": "Earth Corporation: company history (in Japanese)",
+      "publisher": "Earth Corporation",
+      "url": "https://corp.earth.jp/jp/company/history/index.html"
+    },
+    {
+      "title": "Characteristics and Regulatory Status of Spatial Insect Repellents (fact sheet, 27 January 2009)",
+      "publisher": "US Environmental Protection Agency",
+      "url": "https://archive.epa.gov/hsrb/web/pdf/2009_0127_spatial_repellents_factsheet.pdf"
+    }
+  ]
+}
